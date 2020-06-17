@@ -1,5 +1,5 @@
-b = int(input('b = '))
-q = int(input('q = '))
+b = float(input('b = '))
+q = float(input('q = '))
 n = int(input('n = ')) 
 B = b * q**(n - 1)
 print()
