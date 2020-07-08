@@ -4,4 +4,4 @@ def srednee_arifmeticheskoe(A):
         n = len(A)
         a = i / n
         x = x + a
-    return(x)
+    return x
